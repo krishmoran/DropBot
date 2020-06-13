@@ -1,10 +1,6 @@
 # DropBot
 For the hottest collections and drops -- buy and resell automatically with ease
 
-# README Boilerplate
-
-A template of README best practices to make your README simple to understand and easy to use. 
-
 ## Table of Contents
 
 - [Installation](#installation)
