@@ -1,6 +1,8 @@
 # DropBot
 For the hottest collections and drops -- buy and resell automatically with ease
 
+We make the cash machine go "brrrrrrrrrrrrrrrrrrrrr"
+
 ## Table of Contents
 
 - [Installation](#installation)
